@@ -1,4 +1,4 @@
-# z_twitch_integration
+# twitch_integration
 A simple viewer counter for twitch.  
 
 ## Getting Started
