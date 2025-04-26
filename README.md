@@ -1,4 +1,5 @@
 # twitch_integration
+[!WARNING] THIS PROJECT IS A WORK IN PROCESS AND IS NOT READY TO BE USED  
 A simple viewer counter for twitch.  
 
 ## Getting Started
